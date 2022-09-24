@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.22mukesh22.androidplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.22mukesh22.androidplugin.MyBundle
 
 class MyApplicationService {
 
